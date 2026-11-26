@@ -31,7 +31,7 @@ Remas Land is a customer-facing shopping app that lets users explore products an
 
 | Home | Products | Cart |
 |------|----------|------|
-| ![Home](screenshots\Home Page photos\Screenshot 2026-11-26 093658.png) | ![Products](screenshots\Category Products Page.png) | ![Cart](screenshots\Cart.png) |
+| ![Home]('screenshots/Home Page photos/Screenshot 2026-11-26 093658.png') | ![Products]('screenshots/Category Products Page.png') | ![Cart]('screenshots/Cart.png') |
 
 > Add your screenshots to `docs/screenshots/` and update the file names above.
 
